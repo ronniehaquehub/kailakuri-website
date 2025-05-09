@@ -103,3 +103,16 @@ a {
   margin-right: auto;
   text-align: center;
 }
+
+
+.hero-title {
+  display: inline-block;
+  white-space: nowrap;
+  text-align: center;
+  margin: 0 auto;
+}
+.hero-subtext {
+  display: block;
+  margin-top: 1rem;
+  text-align: center;
+}
